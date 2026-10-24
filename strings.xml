@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Meu Launcher</string>
+    <string name="titulo">Seus apps</string>
+    <string name="erro_abrir">Não foi possível abrir %1$s</string>
+</resources>

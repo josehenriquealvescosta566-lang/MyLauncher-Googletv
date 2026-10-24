@@ -1,0 +1,15 @@
+<resources>
+    <!-- Cores de reserva (usadas se o sistema não oferecer cores dinâmicas) -->
+    <style name="Theme.Launcher" parent="Theme.Material3.Dark.NoActionBar">
+        <item name="colorPrimary">#A8C7FA</item>
+        <item name="colorOnPrimary">#062E6F</item>
+        <item name="colorSecondaryContainer">#3E4759</item>
+        <item name="colorSurface">#121316</item>
+        <item name="colorSurfaceContainer">#1E1F23</item>
+        <item name="colorOnSurface">#E3E2E6</item>
+        <item name="colorOnSurfaceVariant">#C4C6D0</item>
+        <item name="android:windowBackground">#121316</item>
+        <item name="android:statusBarColor">@android:color/transparent</item>
+        <item name="android:navigationBarColor">@android:color/transparent</item>
+    </style>
+</resources>
